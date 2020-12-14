@@ -4,3 +4,4 @@
 * [CH9](https://github.com/cycyucheng1010/NQU/blob/main/TCPIP/TCPIP09.md)
 * [CH10](https://github.com/cycyucheng1010/NQU/blob/main/TCPIP/TCPIP10.md)
 * [CH11](https://github.com/cycyucheng1010/NQU/blob/main/TCPIP/TCPIP11.md)
+* [CH12](https://github.com/cycyucheng1010/NQU/blob/main/TCPIP/TCPIP12.md)
