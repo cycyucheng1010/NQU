@@ -1,0 +1,27 @@
+# TCP/IP_CH08
+## DHCP 
+### 簡介
+* DHCP(Dynamic Host Configuration Protocol)
+* 動態地對網路進行分配
+* 只有網路連接時才向DHCP伺服器取得IP位址
+* 可以有效地對IP位址進行分配與運用
+### 架構
+* 網路必須配置DHCP伺服器
+* 節點連線後以廣播方式與DHCP server聯繫
+* 設定使用期限------> 避免長時間占用IP
+## DNS
+### 簡介
+* DNS(Domain Name Space)
+* 網路藉由節點對節點進行定址
+* 根據節點特性，以名稱對節點進行表示
+* 名稱容易記憶，但真正的定址還是IP位址
+### 查詢
+* 正向名稱查詢(Forward Name Query)
+網域名稱---->IP位址
+* 反向名稱查詢(Reverse Name Query)
+IP位址----->網域名稱
+### 網域名稱
+* 依階層方式組成，階層間以'.'區隔
+* 最多五階層
+* 每一階層 2~63字元
+* 名稱total<=253字元
