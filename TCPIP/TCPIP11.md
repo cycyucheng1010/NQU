@@ -3,7 +3,7 @@
 ### 簡單距離量測
 * 單純以行經節點數為唯一參考:路程(Hop)
 * 方式簡單，但不嚴謹
-### 綜合姓路徑距離
+### 綜合性路徑距離
 * Propagation Delay
 * Bandwidth
 * Loading 
