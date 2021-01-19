@@ -55,3 +55,15 @@
 * ```x['?']``` 收尋索引對應值
 * ```.items()``` 將dictionary轉換成list
 * ```.keys()``` 找出dictionary中的所有索引
+### 文字讀取及寫入
+* ```file=open('name','option')``` 開啟檔案
+* ```.name``` 查看名字
+* ```.write()``` 寫入內容
+* ```.read()``` 讀取內容
+* ```.realist()``` 將每行轉換成一個list內容
+* ```.close()``` 關閉取用檔案
+* ```.closed``` 是否關閉取用
+* ```.mode``` 檔案權限
+#### import os
+* ```os.rename()``` 重新命名
+* ```os.remove()``` 移除檔案
