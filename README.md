@@ -9,5 +9,6 @@
 ### [計算機結構](https://github.com/cycyucheng1010/co109a)
 ### [網站設計](https://github.com/cycyucheng1010/ws109a)
 ## 109b
+### [CentOS7](https://github.com/cycyucheng1010/NQU/tree/main/Centos7)
 ### [系統程式](https://github.com/cycyucheng1010/sp109b)
 ### [人工智慧](https://github.com/cycyucheng1010/ai109b)
