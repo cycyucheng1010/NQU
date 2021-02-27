@@ -1,4 +1,4 @@
-# Centos7 
+# Centos7 week1
 ## 使用環境
 * VMware workstation pro 16
 ## 下載ISO檔
