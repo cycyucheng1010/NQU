@@ -46,7 +46,7 @@
 ![12](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-12.PNG)
 >傳送後多了helloworld.txt之檔案，利用cat開啟後可發現內文符合!說明傳送成功且正確
 ---
-## 額外補充
+## 參考資料
 * [CentOS-xxxx-LiveCD.ios 和CentOS-xxxx-bin-DVD1.iso有什麼區別？](https://www.itread01.com/content/1546347788.html)
 * [安裝 CentOS7.x 鳥哥](http://linux.vbird.org/linux_basic/0157installcentos7.php)
 * [Linux命令 vim及cat](https://www.itread01.com/content/1545716826.html)
