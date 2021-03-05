@@ -1,4 +1,4 @@
-# Centos7 week1
+# Centos7第一週學習筆記
 ## 使用環境
 * VMware workstation pro 16
 ## 下載ISO檔
