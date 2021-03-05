@@ -1,4 +1,4 @@
-# 20210302
+# CentOS7第二週學習筆記
 ## 前言
 * 本週在執行yum時發生黑頻死機方面的問題，故更換iso重新下載 (CentOS-7-x86_64-DVD-2009.iso)
 ## 安裝過程
@@ -24,6 +24,27 @@
 ---
 ![5](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-5.PNG)
 >再利用clone的虛擬機進行改ip及ping該ip確認是否成功
+---
+![6](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-6.PNG)
+>sudo yum install openssh-server
+---
+![7](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-7.PNG)
+>利用clone後的linux系統進行登入，在此步驟前筆者原無設定RichChen的password會有不知密碼無法登入的問題，設定完後便可解決!
+---
+![8](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-8.PNG)
+>利用本機進行登入
+---
+![9](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-9.PNG)
+>安裝Winscp並登入
+---
+![10](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-10.PNG)
+>將helloworld.txt這個檔案傳到RickChen中
+---
+![11](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-11.PNG)
+>helloworld中的內容
+---
+![12](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week2-12.PNG)
+>傳送後多了helloworld.txt之檔案，利用cat開啟後可發現內文符合!說明傳送成功且正確
 ---
 ## 額外補充
 * [CentOS-xxxx-LiveCD.ios 和CentOS-xxxx-bin-DVD1.iso有什麼區別？](https://www.itread01.com/content/1546347788.html)
