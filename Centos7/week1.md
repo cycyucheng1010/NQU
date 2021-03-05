@@ -10,5 +10,4 @@
 ![1](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/week1-1.PNG)
 ## 在虛擬機外的真正主機上ping IP
 ![2](https://github.com/cycyucheng1010/NQU/blob/main/Centos7/homework1.PNG)
-## Additional
-* [CentOS-xxxx-LiveCD.ios 和CentOS-xxxx-bin-DVD1.iso有什麼區別？](https://www.itread01.com/content/1546347788.html)
+
