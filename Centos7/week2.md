@@ -50,3 +50,4 @@
 * [CentOS-xxxx-LiveCD.ios 和CentOS-xxxx-bin-DVD1.iso有什麼區別？](https://www.itread01.com/content/1546347788.html)
 * [安裝 CentOS7.x 鳥哥](http://linux.vbird.org/linux_basic/0157installcentos7.php)
 * [Linux命令 vim及cat](https://www.itread01.com/content/1545716826.html)
+* [full clone vs linked clone](https://www.vmware.com/support/ws5/doc/ws_clone_typeofclone.html)
