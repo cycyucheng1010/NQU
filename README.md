@@ -12,3 +12,4 @@
 ### [系統程式](https://github.com/cycyucheng1010/sp109b)
 ### [人工智慧](https://github.com/cycyucheng1010/ai109b)
 ### [嵌入式微處理系統](https://github.com/cycyucheng1010/NQU/blob/main/es109b.md)
+### [單晶片原理應用](https://github.com/cycyucheng1010/NQU/blob/main/sc109b.md)
