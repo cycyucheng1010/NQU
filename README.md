@@ -15,3 +15,4 @@
 ## 110a
 ### [伺服器架設](https://github.com/cycyucheng1010/server_setup_and_maintenance-)
 ### [軟體工程與演算法](https://github.com/cycyucheng1010/sa110a)
+### [資料探勘](https://github.com/cycyucheng1010/NQU/tree/main/data_mining)
