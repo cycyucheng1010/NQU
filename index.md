@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## yucheng's Note
 
 You can use the [editor on GitHub](https://github.com/cycyucheng1010/NQU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
