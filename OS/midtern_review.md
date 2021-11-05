@@ -32,7 +32,10 @@
 ## Computer Startup
 * boostrap program is loaded at power-up or  reboot
   * stored in ROM or EPROM as firmware
-  * Initializes all aspects of system
+  * Initializes all aspects of system ex: CPU, memory 
   * Load operating system kernel and starts execution
 ## Computer ststem Organization
+* Through common bus providing access to shared memory 
+
 ![image](https://user-images.githubusercontent.com/62127656/140488980-1f2153f4-14cc-419e-a049-99adee09d698.png)
+## 
