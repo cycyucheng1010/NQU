@@ -150,3 +150,5 @@
 * Storage Management
   * OS provides uniform , logical view of information storage
   * File System management: Files usually organized into directories Access control on most systems to determine who can access what
+![image](https://user-images.githubusercontent.com/62127656/140513082-da672a77-0fa8-437c-8952-241a0af8c36d.png)
+>不同階層儲存體的效能
