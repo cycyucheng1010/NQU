@@ -124,3 +124,29 @@
   * A subset of toatal jobs in system is kept in memory
   * one job selected and run via job scheduling
 * Timesharing is logical extension in which CPU switches jobs so frequently that user can interacrt with each job while running creating interactive computing
+![image](https://user-images.githubusercontent.com/62127656/140507491-9e130338-fe15-4b2d-a3c1-c7989bb09849.png)
+>多元程式規劃系統的記憶體布置
+
+## Operating-System Operations
+* Interrupt driven
+  * Hardware interrupt by one of the devices
+  * Software interrupt (exeception or trap)
+* Dual-mode : allows OS to protect itself and other system components
+  * user mode
+  * kernel mode
+* Timer  
+  * to prevent infinite loop / process hogging 霸占 resources
+  * Timer is set to interrupt the computer after some time period
+
+* Process Management
+  * A process is a program in execution
+  * Program is a passive entity , process is an active entity
+  * Single threaded process has one program counter specifying location of next instruction to execute
+  * Multi threaded process has one program counter per thread
+* Memory Management
+  * To execute a program all (or part) of the instructions must be in memory 
+  * All (or part) of the data that is needed by the program must be in memory.
+  * Memory management determines what is in memory and when Optimizing CPU utilization and computer response to users memory management activities
+* Storage Management
+  * OS provides uniform , logical view of information storage
+  * File System management: Files usually organized into directories Access control on most systems to determine who can access what
