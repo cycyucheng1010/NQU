@@ -56,8 +56,8 @@
 ## Interrput Handing
 * The operating system preserves the state of the CPU by storing register and the program counter
 * Determines which type of interrupt has occurred:
- * polling
- * vectored interrupt system
+  * polling
+  * vectored interrupt system
 * separate segments of code determine what action should be taken for each type of interrupt 
 ## Interrupt Timeline
 ![image](https://user-images.githubusercontent.com/62127656/140497727-a152591f-550e-4b71-89f4-82a2b3d66682.png)
@@ -65,20 +65,20 @@
 
 ## Storage Structure
 * The CPU can only access the most data from main memory 
- * the main memory also called RAM 
- * the main memory is made up of DRAM(dynamic random-access memory)
- * random access 
- * Typically volatile 
+  * the main memory also called RAM 
+  * the main memory is made up of DRAM(dynamic random-access memory)
+  * random access 
+  * Typically volatile 
 * Secondary storage -extension of main memory
- * provides large nonvolatile storage capacity
- * Disk surface is logically divided into tracks, which are subdivided into sectors
- * SSD faster than hard disks, nonvolatile and becoming more popular
+  * provides large nonvolatile storage capacity
+  * Disk surface is logically divided into tracks, which are subdivided into sectors
+  * SSD faster than hard disks, nonvolatile and becoming more popular
 * 3 important things : speed , cost volatility
 * Caching 
- * copying information into faster storage system
- * main memory can be viewed as a cache for secondary storage
+  * copying information into faster storage system
+  * main memory can be viewed as a cache for secondary storage
 * Device Driver
- * for each device controller to manage I/O provides uniform interface between controller and kernel
+  * for each device controller to manage I/O provides uniform interface between controller and kernel
 ![image](https://user-images.githubusercontent.com/62127656/140500291-2be9d319-8b0b-4d4d-9fda-72cb02c070c1.png)
 > 儲存裝置的階層
 
