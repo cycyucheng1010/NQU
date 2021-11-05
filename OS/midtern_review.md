@@ -82,4 +82,45 @@
 ![image](https://user-images.githubusercontent.com/62127656/140500291-2be9d319-8b0b-4d4d-9fda-72cb02c070c1.png)
 > 儲存裝置的階層
 
-##
+## How a Modern Computer Works
+![image](https://user-images.githubusercontent.com/62127656/140501357-0a9adeb9-bfdd-4f93-b2bf-5c8d034baf64.png)
+>逢紐曼架構
+
+## Computer-System Architecture
+* Most system have special-purpose processors as well Multiprocessors systems growing in use and importance also known as parallel systems, tightly-coupled systems
+* Advantages:
+  * Increased throughput
+  * Economy of scale
+  * Increased reliability: graceful degradation and fault tolerrant
+* two types: 
+  * asymmertric miltiprocessing: each processor is assigned a special task
+  * symmertric multiprocessing : each processor performs all tasks
+![image](https://user-images.githubusercontent.com/62127656/140502840-1c147a4b-9bfc-49f0-890f-794389c248dc.png)
+> 對稱式多元處理器架構
+## A Dual-Core Design 
+* Multi-chip and multicore
+* Systems containing all chips 
+* Chassis containing multiple separate systems
+* fast than multi-single chip 
+![image](https://user-images.githubusercontent.com/62127656/140503436-93024461-fff6-4d5e-8318-4db4340d6f38.png)
+>雙核心晶片示意圖
+
+## Clustered Systems
+* Like multiprocessor systems, but multiple system working together
+* sharing storage via a SAN(storage-area network)
+* Provides a high-availability service 
+  * Asymmertric clustering gas one machine in hot-standby mode
+  * Symmertric clustering has multiple nodes runnung applications,monitoring each other
+* Some clusters are for high-performance computing(HPC)
+  * Applications must be written to use parallelization
+* Some have distributed lock manager to avoid conflicting operations
+![image](https://user-images.githubusercontent.com/62127656/140504532-b4d2dc93-3644-4e82-a546-78400d2f04f4.png)
+>叢集式系統的一般架構
+
+## Operating System Structure
+* Multiprogramming needed for efficiency
+  * aingle user cannot keep CPU and I/O devices busy at all times 
+  * CPU always has one to execute
+  * A subset of toatal jobs in system is kept in memory
+  * one job selected and run via job scheduling
+* Timesharing is logical extension in which CPU switches jobs so frequently that user can interacrt with each job while running creating interactive computing
