@@ -43,9 +43,19 @@
 * 美國continental航空
   * 利用OR建立決策支援系統，解決911恐慌造成的排班問題
   * 2001節省4000萬美金
+
+![image](https://user-images.githubusercontent.com/62127656/153810805-8ca97ff9-31e7-4df6-a77a-f26c9116b42b.png)
+
+
 * Schindler電梯
   * 發展自動技術員路線排成及規劃系統
   * 每年節省100萬美金
+
+![image](https://user-images.githubusercontent.com/62127656/153810854-9dbfdd37-2dcb-4502-8865-7eb5658b53f7.png)
+
+
 * PSA Peugeot Citroen汽車製造商
   * 利用模擬、馬可夫鍊模式重新設計並改進車體製造上的瓶頸
   * 2001年帶來13 million的效益
+
+![image](https://user-images.githubusercontent.com/62127656/153810906-14e2632c-03bd-4676-a4b5-66c56ccc8014.png)
