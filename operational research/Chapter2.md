@@ -20,3 +20,5 @@
   4. 決定變數是否具有**非負限制式**或**不受正負限制**
 
 ![image](https://user-images.githubusercontent.com/62127656/153816716-5ad83348-28f7-4139-ab70-9a96a137b8f3.png)
+![image](https://user-images.githubusercontent.com/62127656/153819764-e6e4235f-44f3-4096-be67-d42a28f8c6d2.png)
+![image](https://user-images.githubusercontent.com/62127656/153817454-e7438746-f7d5-42c1-9d0a-8350e46821db.png)
