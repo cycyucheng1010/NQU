@@ -24,6 +24,10 @@
 * 資金如何融通?
    * 透過金融機構進行各種金融工具的買賣，將資金供給者的剩餘資金移轉至資金需求者
 * 金融市場可分為: **間接金融**、**直接金融**兩種
+
+![image](https://user-images.githubusercontent.com/62127656/154003681-f7b5e5d3-0b4e-4c56-b61d-a3a47286804b.png)
+
+
 ## 公司組織圖
 ![image](https://user-images.githubusercontent.com/62127656/153999923-169579da-3d7c-4e15-9661-e9342c518fdc.png)
 
