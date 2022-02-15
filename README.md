@@ -18,3 +18,6 @@
 ### [資料探勘](https://github.com/cycyucheng1010/NQU/tree/main/data_mining)
 ### [計算機網路](https://github.com/cycyucheng1010/computer_network)
 ### [作業系統](https://github.com/cycyucheng1010/NQU/tree/main/OS) 
+## 110b
+### [作業研究](https://github.com/cycyucheng1010/NQU/tree/main/operational%20research)
+### [財務管理](https://github.com/cycyucheng1010/NQU/tree/main/finance%20management)
