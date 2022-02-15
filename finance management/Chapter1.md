@@ -41,4 +41,6 @@
 * 公司所有者: 股東
 ## 公司組織圖
 ![image](https://user-images.githubusercontent.com/62127656/153999923-169579da-3d7c-4e15-9661-e9342c518fdc.png)
-
+## 牛刀小試
+![image](https://user-images.githubusercontent.com/62127656/154006917-6cd6b766-ffd8-4fef-b72e-8f4e2b896377.png)
+>不一定，依結果論來判斷，若公司市值上升則符合
