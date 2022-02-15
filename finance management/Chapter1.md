@@ -70,3 +70,8 @@
 ## 財務人的生涯規劃
 
 ![image](https://user-images.githubusercontent.com/62127656/154009003-49399930-f862-4eb5-bdc0-5cb3b3727222.png)
+## 代理問題
+* 股東與管理當局之間的代理問題
+* 股東與債權人之間的代理問題
+* 公司治理: 解決代理問題的基本原則
+* ESG(Environmental 環境 / Social 社會 / Governance 公司治理)
