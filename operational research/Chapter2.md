@@ -55,3 +55,8 @@
 ![image](https://user-images.githubusercontent.com/62127656/153823214-81c376b8-7c1e-48a9-82cd-cf6b932ce5a5.png)
 ### 無可行解
 ![image](https://user-images.githubusercontent.com/62127656/154896119-959e6ce1-8d9a-478c-bcc3-b2499ae3c0b4.png)
+## 混合問題
+![image](https://user-images.githubusercontent.com/62127656/154899792-6fcaec66-c020-473e-b886-8f36a17a4e2e.png)
+![image](https://user-images.githubusercontent.com/62127656/154899639-f020f8d2-380a-4d25-b829-8e41a72c8cfe.png)
+![image](https://user-images.githubusercontent.com/62127656/154899876-d00ee1fc-dfc0-45ff-8bb6-2ea1dd709f90.png)
+
