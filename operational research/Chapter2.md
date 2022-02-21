@@ -22,6 +22,28 @@
 ![image](https://user-images.githubusercontent.com/62127656/153819764-e6e4235f-44f3-4096-be67-d42a28f8c6d2.png)
 ![image](https://user-images.githubusercontent.com/62127656/153816716-5ad83348-28f7-4139-ab70-9a96a137b8f3.png)
 ![image](https://user-images.githubusercontent.com/62127656/153817454-e7438746-f7d5-42c1-9d0a-8350e46821db.png)
+### 線性規劃模式的解
+* 解(solution)
+   * 包括所有變數的任何特定值
+*  可行解
+   * 滿足所有限制式
+*  不可行解
+   * 至少違反其中一個限制式的解
+*  最佳解
+   *  所有可行解中，具有最有利目標函數值得解
+* 唯一最佳解
+   * 僅有一個最佳解
+* 多重最佳解
+   * 有無限多個目標函數相同的解
+### 線性規劃的假設
+* 成比例性
+   * 各個項目對於函數的貢獻和變數之值成比例
+* 可加性
+   * 函數個項目彼此獨立，因此可相互加減
+* 可分性
+   * 所有變數都可以是任何實數值，而不必是整數
+* 確定性
+   * 所有係數均為已知的常數
 ### 圖解法
 
 ![image](https://user-images.githubusercontent.com/62127656/153821434-63c4da2a-92a6-4f6f-9bbc-e056e539b3e4.png)
@@ -31,3 +53,5 @@
 
 ![image](https://user-images.githubusercontent.com/62127656/153820417-ff9a7d6e-c25e-4366-abe4-742413003db2.png)
 ![image](https://user-images.githubusercontent.com/62127656/153823214-81c376b8-7c1e-48a9-82cd-cf6b932ce5a5.png)
+### 無可行解
+![image](https://user-images.githubusercontent.com/62127656/154896119-959e6ce1-8d9a-478c-bcc3-b2499ae3c0b4.png)
