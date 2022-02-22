@@ -1,3 +1,4 @@
+# 貨幣的時間價值 
 ## 終值與現值
 ### 終値
 * 貨幣在未來特定時點的價格，簡而言之就是**複利**後的結果
@@ -20,4 +21,10 @@
 ![image](https://user-images.githubusercontent.com/62127656/155073121-0dd01d65-82ad-4edb-b3dc-e0dd6cecdf44.png)
 >PV = 100/((1.01)^20)=81.95
 ## 年金終値與年金現値
+### 年金
+* 特定時間內，定期支付的等額現金流量
+
+![image](https://user-images.githubusercontent.com/62127656/155074426-f88a2c77-3681-42e6-8336-b32b753b6943.png)
+
+
 ## 應用實例
