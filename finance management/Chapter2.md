@@ -33,5 +33,5 @@
 ![image](https://user-images.githubusercontent.com/62127656/155076967-cf64ffaf-1c60-44db-8040-9aecffaf3a78.png)
 
 ### 年金終値
-* 一連串等額金額現金支付的**個別終値總和
+* 一連串等額金額現金支付的**個別終値總和**
 ## 應用實例
