@@ -28,8 +28,11 @@
 
 ![image](https://user-images.githubusercontent.com/62127656/155074426-f88a2c77-3681-42e6-8336-b32b753b6943.png)
 #### 普通年金
+* PMTxFVIFA(k%,n)
+* FVIF(r,n) = (1+r)n
 ![image](https://user-images.githubusercontent.com/62127656/155076760-e8189019-c360-4864-a76f-9e5c917b3c0a.png)
 #### 期初年金
+* PMTxFVIFA(k%,n)x(1+k%)
 ![image](https://user-images.githubusercontent.com/62127656/155076967-cf64ffaf-1c60-44db-8040-9aecffaf3a78.png)
 
 ### 年金終値
