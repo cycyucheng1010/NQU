@@ -23,8 +23,15 @@
 ## 年金終値與年金現値
 ### 年金
 * 特定時間內，定期支付的等額現金流量
+* 年金的開始支付時點在第一期末者稱為普通年金
+* 在第一期期初者稱為期初年金
 
 ![image](https://user-images.githubusercontent.com/62127656/155074426-f88a2c77-3681-42e6-8336-b32b753b6943.png)
+#### 普通年金
+![image](https://user-images.githubusercontent.com/62127656/155076760-e8189019-c360-4864-a76f-9e5c917b3c0a.png)
+#### 期初年金
+![image](https://user-images.githubusercontent.com/62127656/155076967-cf64ffaf-1c60-44db-8040-9aecffaf3a78.png)
 
-
+### 年金終値
+* 一連串等額金額現金支付的**個別終値總和
 ## 應用實例
