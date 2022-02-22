@@ -37,4 +37,14 @@
 
 ### 年金終値
 * 一連串等額金額現金支付的**個別終値總和**
-## 應用實例
+
+### 牛刀小試
+![image](https://user-images.githubusercontent.com/62127656/155079434-8c22dbf3-d683-413d-9dd5-5dd9490af791.png)
+
+### 年金現值
+* 未來一系列等額支付現金之各別現值總和
+
+![image](https://user-images.githubusercontent.com/62127656/155080129-7aceb89a-5cbf-4581-82e0-4dfb94a16e22.png)
+
+### 其他
+![image](https://user-images.githubusercontent.com/62127656/155085886-6e652d9b-4ce4-4d84-a93e-0ed8afa9f909.png)
