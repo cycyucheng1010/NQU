@@ -5,6 +5,7 @@
 * 透過簡單的指令可以完成一些我們在工程上會使用到的圖表
 * * 如要在vscode中show出mermaid的圖形需下載補充軟體
 * 輸入mermaid即可找到
+* 範例code可透過display the source blob查看3Q
 ## 餅形圖(Pie Chart)
 * 輸入關鍵詞 pie
 * title 你想要的主題名稱
