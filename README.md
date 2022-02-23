@@ -21,3 +21,5 @@
 ## 110b
 ### [作業研究](https://github.com/cycyucheng1010/NQU/tree/main/operational%20research)
 ### [財務管理](https://github.com/cycyucheng1010/NQU/tree/main/finance%20management)
+### [網路程式設計](https://github.com/cycyucheng1010/network_programming)
+### [演算法與資料分析](https://github.com/cycyucheng1010/Algorithm-and-Data-Analysis)
