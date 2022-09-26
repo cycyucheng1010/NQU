@@ -19,3 +19,5 @@ Nic = network interface card =  Data link layer + physical layer
 2. queueing delay --->  data queue
 3. transmission delay ---> queueing data transmite 
 4. propagation delay ---> Nic to Nic (the least delay) 
+
+## little's low 弄熟
